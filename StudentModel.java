@@ -1,5 +1,7 @@
 public class StudentModel{
-    int edad;
-    int cod;
-    String nom;
+    public String nombre;
+    public String apellido;
+    public String matricula;
+    public String carrera;
+    public String semestre;
 }
